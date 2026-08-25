@@ -23,18 +23,18 @@ body {
                 }
             }
         }
-       section {
-        h2 subtitle{
-             align-items: center;
-             background-color: #7acb16;
-             border-radius: 8px;
-             color: #0009;
-             display: flex;
-             font-weight: 500;
-             justify-content: space-between;
-             margin: 0;
-             padding: 0.4 rem;
-             span{
+    section {
+        h2.subtitle{
+            align-items: center;
+            background-color: #7acb16;
+            border-radius: 8px;
+            color: #0009;
+            display: flex;
+            font-weight: 500;
+            justify-content: space-between;
+            margin: 0;
+            padding: 0.4rem;
+            span{
                 align-items:center;
                 background-color: #0009;
                 border-radius: 50px;
@@ -43,20 +43,20 @@ body {
                 height: 30px;
                 justify-content: center;
                 width: 30px;
-             }
+            }
 
-         }
-             small{
+        }
+            small{
                 color: #fff9;
-             }
-              h3{
+            }
+            h3{
                 margin: 0;
                 border-bottom: 1px dotted #baffa9aa;          
-              }
-               p{
+            }
+            p{
                 color: #fff9;
                 font-size: 1.2rem;
-               } 
+            } 
                 xmp{
                     background-color: #0009;
                     border-radius: 8px;
@@ -64,10 +64,10 @@ body {
                     padding: 0.4rem;
 
                 }
-             
+            
         }
 
-       }
+    }
     }
 
     nav.goback {
@@ -140,7 +140,7 @@ body {
         }
 
         section{
-            background-color: #0000;
+            background-color: #0006;
             border-radius: 8px;
             padding: 0.6rem;
             margin: 1rem auto;
